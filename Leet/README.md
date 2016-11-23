@@ -3,7 +3,7 @@
 Just my solutions and thoughts about LeetCode.Some of the problems I also give some brief explanations.
 Feel free to give solutions in other language or better algorithms.
 
-62 solved.
+118 solved.
 
 | *        | Title   |  Difficulty  |
 | --------   | :-----  | :----:  |
