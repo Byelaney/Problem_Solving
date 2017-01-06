@@ -102,7 +102,7 @@ Feel free to give solutions in other language or better algorithms.
 | 2        |   [AddTwoNumbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/2.AddTwoNumbers(medium).cpp)   |   medium   |
 | 5        |   [LongestPalindromicSubstring](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/5.LongestPalindromicSubstring(medium).cpp)   |   medium   |
 | 35        |   [SearchInsertPosition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/35.SearchInsertPosition(medium).cpp)   |   medium   |
-| 53        |   [MaximumSubarray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/53.MaximumSubarray(medium).cpp)   |   medium   |
+| 53        |   [MaximumSubarray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/53.MaximumSubarray(medium).java)   |   medium   |
 | 62        |   [UniquePaths](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/62.UniquePaths(medium).cpp)   |   medium   |
 | 77        |   [Combinations](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/77.Combinations(medium).cpp)   |   medium   |
 | 94        |   [BinaryTreeInorderTraversal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/94.BinaryTreeInorderTraversal(medium).cpp)   |   medium   |
