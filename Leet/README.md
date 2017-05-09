@@ -77,8 +77,8 @@ Feel free to give solutions in other language or better algorithms.
 | 293        |   [FlipGame](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/293.FlipGame(easy).cpp)   |   easy   |
 | 299        |   [BullsandCows](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/299.BullsandCows(easy).java)   |   easy   |
 | 326        |   [PowerofThree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/326.PowerofThree(easy).cpp)   |   easy   |
-| 328        |   [OddEvenLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/328. OddEvenLinkedList(easy).cpp)   |   easy   |
-| 339        |   [NestedListWeightSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/339. NestedListWeightSum(easy).cpp)   |   easy   |
+| 328        |   [OddEvenLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/328.OddEvenLinkedList(easy).cpp)   |   easy   |
+| 339        |   [NestedListWeightSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/339.NestedListWeightSum(easy).cpp)   |   easy   |
 | 342        |   [PowerofFour](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/342.PowerofFour(easy).cpp)   |   easy   |
 | 344        |   [ReverseString](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/344.ReverseString(easy).cpp)   |   easy   |
 | 345        |   [ReverseVowelsofaString](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/345.ReverseVowelsofaString(easy).cpp)   |   easy   |
