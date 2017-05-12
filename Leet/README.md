@@ -5,6 +5,8 @@ Feel free to give solutions in other language or better algorithms.
 
 118 solved.
 
+## LeetCodes
+
 | *        | Title   |  Difficulty  |
 | --------   | :-----  | :----:  |
 | 1     | [TwoSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/1.TwoSum(easy).cpp) |   easy     |
@@ -97,7 +99,23 @@ Feel free to give solutions in other language or better algorithms.
 | 405        |   [ConvertaNumbertoHexadecimal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/405.ConvertaNumbertoHexadecimal(easy).cpp)   |   easy   |
 | 409        |   [LongestPalindrome](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/409.LongestPalindrome(easy).cpp)   |   easy   |
 | 412        |   [FizzBuzz](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/412.FizzBuzz(easy).java)   |   easy   |
-| 415        |   [AddStrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/415.AddStrings(easy).cpp)   |   easy   |
+| 415        |   [AddStrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/415.AddStrings(easy).cpp)   |   easy   |
+| 476        |   [number-complement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/476.number-complement(easy).cpp)   |   easy   |
+| 461        |  
+[hamming-distance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/461.hamming-distance(easy).cpp)   |   easy   |
+| 500        |  
+[keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
+| 557        |  
+[reverse-words-in-a-string-iii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/557.reverse-words-in-a-string-iii(easy).cpp)   |   easy   |
+| 561        |   [ArrayPartition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/561.ArrayPartition(easy).cpp |   easy   |
+| 566       |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp |   easy   |
+| 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp |   easy   |
+
+
+## LintCodes
+
+| *        | Title   |  Difficulty  |
+| --------   | :-----  | :----:  |
 | 1        |   [TwoSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/1.TwoSum(medium).cpp)   |   medium   |
 | 2        |   [AddTwoNumbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/2.AddTwoNumbers(medium).cpp)   |   medium   |
 | 5        |   [LongestPalindromicSubstring](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/5.LongestPalindromicSubstring(medium).cpp)   |   medium   |
