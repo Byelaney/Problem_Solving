@@ -105,8 +105,8 @@ Feel free to give solutions in other language or better algorithms.
 | 500        |   [keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
 | 557        |   [reverse-words-in-a-string-iii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/557.reverse-words-in-a-string-iii(easy).cpp)   |   easy   |
 | 561        |   [ArrayPartition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/561.ArrayPartition](easy).cpp)   |   easy   |
-| 566       |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp |   easy   |
-| 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp |   easy   |
+| 566        |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp)   |   easy   |
+| 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp)   |   easy   |
 
 
 ## LintCodes
