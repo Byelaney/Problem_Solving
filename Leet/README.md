@@ -100,11 +100,21 @@ Feel free to give solutions in other language or better algorithms.
 | 409        |   [LongestPalindrome](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/409.LongestPalindrome(easy).cpp)   |   easy   |
 | 412        |   [FizzBuzz](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/412.FizzBuzz(easy).java)   |   easy   |
 | 415        |   [AddStrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/415.AddStrings(easy).cpp)   |   easy   |
-| 476        |   [number-complement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/476.number-complement(easy).cpp)   |   easy   |
+| 448        |   [find-all-numbers-disappeared-in-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/448.find-all-numbers-disappeared-in-an-array(easy).cpp)   |   easy   |
+| 455        |   [assign-cookies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/455.assign-cookies(easy).cpp)   |   easy   |
 | 461        |   [hamming-distance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/461.hamming-distance(easy).cpp)   |   easy   |
+| 463        |   [island-perimeter](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/463.island-perimeter(easy).cpp)   |   easy   |
+| 476        |   [number-complement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/476.number-complement(easy).cpp)   |   easy   |
+| 485        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/485.max-consecutive-ones(easy).cpp)   |   easy   |
+| 492        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/492.construct-the-rectangle(easy).cpp)   |   easy   |
+| 496        |   [next-greater-element-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/496.next-greater-element-i(easy).cpp)   |   easy   |
 | 500        |   [keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
+| 506        |   [relative-ranks](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/506.relative-ranks(easy).java)   |   easy   |
+| 520        |   [detect-capital](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/520.detect-capital(easy).cpp)   |   easy   |
+| 530        |   [minimum-absolute-difference-in-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/530.minimum-absolute-difference-in-bst(easy).cpp)   |   easy   |
 | 557        |   [reverse-words-in-a-string-iii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/557.reverse-words-in-a-string-iii(easy).cpp)   |   easy   |
 | 561        |   [ArrayPartition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/561.ArrayPartition](easy).cpp)   |   easy   |
+| 563        |   [ArrayPartition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/563.binary-tree-tilt](easy).cpp)   |   easy   |
 | 566        |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp)   |   easy   |
 | 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp)   |   easy   |
 
