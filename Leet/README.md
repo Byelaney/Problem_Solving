@@ -66,6 +66,7 @@ Feel free to give solutions in other language or better algorithms.
 | 246        |   [StrobogrammaticNumber](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/246.StrobogrammaticNumber(easy).cpp)   |   easy   |
 | 249        |   [GroupShiftedStrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/249.GroupShiftedStrings(easy).cpp)   |   easy   |
 | 252        |   [MeetingRooms](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/252.MeetingRooms(easy).cpp)   |   easy   |
+| 256        |   [paint-house](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/256.paint-house(easy).cpp)   |   easy   |
 | 257        |   [BinaryTreePaths](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/257.BinaryTreePaths(easy).cpp)   |   easy   |
 | 258        |   [AddDigits](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/258.AddDigits(easy).cpp)   |   easy   |
 | 263        |   [UglyNumber](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/263.UglyNumber(easy).java)   |   easy   |
@@ -109,6 +110,7 @@ Feel free to give solutions in other language or better algorithms.
 | 492        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/492.construct-the-rectangle(easy).cpp)   |   easy   |
 | 496        |   [next-greater-element-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/496.next-greater-element-i(easy).cpp)   |   easy   |
 | 500        |   [keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
+| 504        |   [base-7](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/504.base-7(easy).cpp)   |   easy   |
 | 506        |   [relative-ranks](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/506.relative-ranks(easy).java)   |   easy   |
 | 520        |   [detect-capital](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/520.detect-capital(easy).cpp)   |   easy   |
 | 530        |   [minimum-absolute-difference-in-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/530.minimum-absolute-difference-in-bst(easy).cpp)   |   easy   |
