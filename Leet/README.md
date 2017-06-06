@@ -24,6 +24,7 @@ Feel free to give solutions in other language or better algorithms.
 | 58     | [LengthofLastWord](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/58.LengthofLastWord(easy).java) |   easy     |
 | 66        |   [PlusOne](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/66.PlusOne(easy).cpp)   |   easy   |
 | 67        |   [AddBinary](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/67.AddBinary(easy).cpp)   |   easy   |
+| 69        |   [sqrtx](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/69.sqrtx(easy).cpp)   |   easy   |
 | 70     | [ClimbingStairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/70.ClimbingStairs(easy).java) |   easy     |
 | 83     | [RemoveDuplicatesfromSortedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/83.RemoveDuplicatesfromSortedList(easy).java) |   easy     |
 | 88        |   [MergeSortedArray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/88.MergeSortedArray(easy).cpp)   |   easy   |
@@ -115,8 +116,10 @@ Feel free to give solutions in other language or better algorithms.
 | 492        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/492.construct-the-rectangle(easy).cpp)   |   easy   |
 | 496        |   [next-greater-element-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/496.next-greater-element-i(easy).cpp)   |   easy   |
 | 500        |   [keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
+| 501        |   [find-mode-in-binary-search-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/501.find-mode-in-binary-search-tree(easy).cpp)   |   easy   |
 | 504        |   [base-7](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/504.base-7(easy).cpp)   |   easy   |
 | 506        |   [relative-ranks](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/506.relative-ranks(easy).java)   |   easy   |
+| 507        |   [perfect-number](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/507.perfect-number(easy).java)   |   easy   |
 | 520        |   [detect-capital](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/520.detect-capital(easy).cpp)   |   easy   |
 | 530        |   [minimum-absolute-difference-in-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/530.minimum-absolute-difference-in-bst(easy).cpp)   |   easy   |
 | 541        |   [reverse-words-in-a-string-iii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/541.reverse-string-ii(easy).cpp)   |   easy   |
@@ -128,6 +131,7 @@ Feel free to give solutions in other language or better algorithms.
 | 566        |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp)   |   easy   |
 | 572        |   [subtree-of-another-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/572.subtree-of-another-tree(easy).cpp)   |   easy   |
 | 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp)   |   easy   |
+| 594        |   [longest-harmonious-subsequence](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/594.longest-harmonious-subsequence(easy).cpp)   |   easy   |
 
 
 ## LintCodes
