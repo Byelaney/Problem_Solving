@@ -92,6 +92,7 @@ Feel free to give solutions in other language or better algorithms.
 | 293        |   [FlipGame](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/293.FlipGame(easy).cpp)   |   easy   |
 | 296        |   [best-meeting-point](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/hard/296.best-meeting-point(hard).cpp)   |   hard   |
 | 299        |   [BullsandCows](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/299.BullsandCows(easy).java)   |   easy   |
+| 303        |   [range-sum-query-immutable](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/303.range-sum-query-immutable(easy).cpp)   |   easy   |
 | 326        |   [PowerofThree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/326.PowerofThree(easy).cpp)   |   easy   |
 | 328        |   [OddEvenLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/328.OddEvenLinkedList(easy).cpp)   |   easy   |
 | 339        |   [NestedListWeightSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/339.NestedListWeightSum(easy).cpp)   |   easy   |
@@ -182,6 +183,7 @@ Feel free to give solutions in other language or better algorithms.
 | 613        |   [shortest-distance-in-a-line](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/613.shortest-distance-in-a-line(easy).sql)   |   easy   |
 | 617        |   [merge-two-binary-trees](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/617.merge-two-binary-trees(easy).cpp)   |   easy   |
 | 621        |   [task-scheduler](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/621.task-scheduler](medium).cpp)   |   medium   |
+| 624        |   [maximum-distance-in-arrays](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/624.maximum-distance-in-arrays(easy).cpp)   |   easy   |
 | 628        |   [maximum-product-of-three-numbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/628.maximum-product-of-three-numbers(easy).cpp)   |   easy   |
 
 
