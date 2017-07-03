@@ -188,8 +188,8 @@ Feel free to give solutions in other language or better algorithms.
 | 610        |   [triangle-judgement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/610.triangle-judgement(easy).sql)   |   easy   |
 | 613        |   [shortest-distance-in-a-line](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/613.shortest-distance-in-a-line(easy).sql)   |   easy   |
 | 617        |   [merge-two-binary-trees](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/617.merge-two-binary-trees(easy).cpp)   |   easy   |
-| 621        |   [task-scheduler](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/621.task-scheduler](medium).cpp)   |   medium   |
-| 623        |   [add-one-row-to-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/623.add-one-row-to-tree](medium).cpp)   |   medium   |
+| 621        |   [task-scheduler](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/621.task-scheduler(medium).cpp)   |   medium   |
+| 623        |   [add-one-row-to-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/623.add-one-row-to-tree(medium).cpp)   |   medium   |
 | 624        |   [maximum-distance-in-arrays](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/624.maximum-distance-in-arrays(easy).cpp)   |   easy   |
 | 628        |   [maximum-product-of-three-numbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/628.maximum-product-of-three-numbers(easy).cpp)   |   easy   |
 
