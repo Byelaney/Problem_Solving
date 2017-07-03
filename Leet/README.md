@@ -93,6 +93,8 @@ Feel free to give solutions in other language or better algorithms.
 | 296        |   [best-meeting-point](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/hard/296.best-meeting-point(hard).cpp)   |   hard   |
 | 299        |   [BullsandCows](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/299.BullsandCows(easy).java)   |   easy   |
 | 303        |   [range-sum-query-immutable](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/303.range-sum-query-immutable(easy).cpp)   |   easy   |
+| 311        |   [sparse-matrix-multiplication](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/311.sparse-matrix-multiplication(medium).cpp)   |   medium   |
+| 323        |   [number-of-connected-components-in-an-undirected-graph](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/323.number-of-connected-components-in-an-undirected-graph(medium).cpp)   |   medium   |
 | 326        |   [PowerofThree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/326.PowerofThree(easy).cpp)   |   easy   |
 | 328        |   [OddEvenLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/328.OddEvenLinkedList(easy).cpp)   |   easy   |
 | 339        |   [NestedListWeightSum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/339.NestedListWeightSum(easy).cpp)   |   easy   |
@@ -130,6 +132,7 @@ Feel free to give solutions in other language or better algorithms.
 | 422        |   [valid-word-square](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/422.valid-word-square(easy).cpp)   |   easy   |
 | 434        |   [number-of-segments-in-a-string](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/434.number-of-segments-in-a-string(easy).cpp)   |   easy   |
 | 441        |   [arranging-coins](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/441.arranging-coins(easy).cpp)   |   easy   |
+| 439        |   [ternary-expression-parser](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/439.ternary-expression-parser(medium).cpp)   |   medium   |
 | 442        |   [find-all-duplicates-in-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/442.find-all-duplicates-in-an-array(medium).cpp)   |   medium   |
 | 445        |   [add-two-numbers-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/445.add-two-numbers-ii(medium).cpp)   |   medium   |
 | 447        |   [number-of-boomerangs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/447.number-of-boomerangs(easy).cpp)   |   easy   |
@@ -165,15 +168,18 @@ Feel free to give solutions in other language or better algorithms.
 | 541        |   [reverse-words-in-a-string-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/541.reverse-string-ii(easy).cpp)   |   easy   |
 | 543        |   [diameter-of-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/543.diameter-of-binary-tree(easy).cpp)   |   easy   |
 | 544        |   [output-contest-matches](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/544.output-contest-matches(medium).cpp)   |   medium   |
+| 547        |   [friend-circles](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/547.friend-circles(medium).cpp)   |   medium   |
 | 551        |   [student-attendance-record-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/551.student-attendance-record-i(easy).cpp)   |   easy   |
 | 557        |   [reverse-words-in-a-string-iii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/557.reverse-words-in-a-string-iii(easy).cpp)   |   easy   |
 | 560        |   [subarray-sum-equals-k](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/560.subarray-sum-equals-k](medium).cpp)   |   medium   |
 | 561        |   [ArrayPartition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/561.ArrayPartition](easy).cpp)   |   easy   |
 | 563        |   [binary-tree-tilt](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/563.binary-tree-tilt](easy).cpp)   |   easy   |
+| 565        |   [array-nesting](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/565.array-nesting(medium).cpp)   |   medium   |
 | 566        |   [reshape-the-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/566.reshape-the-matrix(easy).cpp)   |   easy   |
 | 572        |   [subtree-of-another-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/572.subtree-of-another-tree(easy).cpp)   |   easy   |
 | 575        |   [distribute-candies](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/575.distribute-candies(easy).cpp)   |   easy   |
 | 581        |   [shortest-unsorted-continuous-subarray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/581.shortest-unsorted-continuous-subarray(easy).cpp)   |   easy   |
+| 582        |   [kill-process](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/582.kill-process(medium).cpp)   |   medium   |
 | 594        |   [longest-harmonious-subsequence](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/594.longest-harmonious-subsequence(easy).cpp)   |   easy   |
 | 598        |   [range-addition-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/598.range-addition-ii(easy).cpp)   |   easy   |
 | 599        |   [minimum-index-sum-of-two-lists](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/599.minimum-index-sum-of-two-lists(easy).cpp)   |   easy   |
@@ -183,6 +189,7 @@ Feel free to give solutions in other language or better algorithms.
 | 613        |   [shortest-distance-in-a-line](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/613.shortest-distance-in-a-line(easy).sql)   |   easy   |
 | 617        |   [merge-two-binary-trees](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/617.merge-two-binary-trees(easy).cpp)   |   easy   |
 | 621        |   [task-scheduler](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/621.task-scheduler](medium).cpp)   |   medium   |
+| 623        |   [add-one-row-to-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/623.add-one-row-to-tree](medium).cpp)   |   medium   |
 | 624        |   [maximum-distance-in-arrays](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/624.maximum-distance-in-arrays(easy).cpp)   |   easy   |
 | 628        |   [maximum-product-of-three-numbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/628.maximum-product-of-three-numbers(easy).cpp)   |   easy   |
 
