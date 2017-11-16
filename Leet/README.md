@@ -3,7 +3,7 @@
 Just my solutions and thoughts about LeetCode.Some of the problems I also give some brief explanations.
 Feel free to give solutions in other language or better algorithms.
 
-118 solved.
+212 solved.
 
 ## LeetCodes
 
@@ -92,6 +92,7 @@ Feel free to give solutions in other language or better algorithms.
 | 293        |   [FlipGame](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/293.FlipGame(easy).cpp)   |   easy   |
 | 296        |   [best-meeting-point](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/hard/296.best-meeting-point(hard).cpp)   |   hard   |
 | 299        |   [BullsandCows](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/299.BullsandCows(easy).java)   |   easy   |
+| 300        |   [longest-increasing-subsequence](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/300.longest-increasing-subsequence(medium).cpp)   |   medium   |
 | 303        |   [range-sum-query-immutable](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/303.range-sum-query-immutable(easy).cpp)   |   easy   |
 | 311        |   [sparse-matrix-multiplication](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/311.sparse-matrix-multiplication(medium).cpp)   |   medium   |
 | 323        |   [number-of-connected-components-in-an-undirected-graph](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/323.number-of-connected-components-in-an-undirected-graph(medium).cpp)   |   medium   |
@@ -113,6 +114,7 @@ Feel free to give solutions in other language or better algorithms.
 | 370        |   [range-addition](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/370.range-addition(medium).cpp)   |   medium   |
 | 371        |   [SumofTwoIntegers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/371.SumofTwoIntegers(easy).cpp)   |   easy   |
 | 374        |   [GuessNumberHigherorLower](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/374.GuessNumberHigherorLower(easy).cpp)   |   easy   |
+| 382        |   [linked-list-random-node](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/382.linked-list-random-node(medium).cpp)   |   medium   |
 | 383        |   [RansomNote](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/383.RansomNote(easy).cpp)   |   easy   |
 | 384        |   [shuffle-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/384.shuffle-an-array(medium).cpp)   |   medium   |
 | 387        |   [FirstUniqueCharacterinaString](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/387.FirstUniqueCharacterinaString(easy).cpp)   |   easy   |
@@ -120,6 +122,7 @@ Feel free to give solutions in other language or better algorithms.
 | 397        |   [IntegerReplacement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/397.IntegerReplacement(easy).cpp)   |   easy   |
 | 400        |   [nth-digit](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/400.nth-digit(easy).cpp)   |   easy   |
 | 401        |   [BinaryWatch](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/401.BinaryWatch(easy).py)   |   easy   |
+| 403        |   [frog-jump](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/hard/403.frog-jump(hard).java)   |   hard   |
 | 404        |   [SumofLeftLeaves](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/404.SumofLeftLeaves(easy).cpp)   |   easy   |
 | 405        |   [ConvertaNumbertoHexadecimal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/405.ConvertaNumbertoHexadecimal(easy).cpp)   |   easy   |
 | 406        |   [queue-reconstruction-by-height](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/406.queue-reconstruction-by-height(medium).cpp)   |   medium   |
@@ -144,12 +147,14 @@ Feel free to give solutions in other language or better algorithms.
 | 462        |   [minimum-moves-to-equal-array-elements-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/462.minimum-moves-to-equal-array-elements-ii(medium).cpp)   |   medium   |
 | 463        |   [island-perimeter](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/463.island-perimeter(easy).cpp)   |   easy   |
 | 476        |   [number-complement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/476.number-complement(easy).cpp)   |   easy   |
+| 477        |   [total-hamming-distance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/477.total-hamming-distance(medium).cpp)   |   medium   |
 | 485        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/485.max-consecutive-ones(easy).cpp)   |   easy   |
 | 492        |   [construct-the-rectangle](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/492.construct-the-rectangle(easy).cpp)   |   easy   |
 | 495        |   [teemo-attacking](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/495.teemo-attacking(medium).cpp)   |   medium   |
 | 496        |   [next-greater-element-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/496.next-greater-element-i(easy).cpp)   |   easy   |
 | 500        |   [keyboard-row](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/500.keyboard-row(easy).cpp)   |   easy   |
 | 501        |   [find-mode-in-binary-search-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/501.find-mode-in-binary-search-tree(easy).cpp)   |   easy   |
+| 503        |   [next-greater-element-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/503.next-greater-element-ii(medium).cpp)   |   medium   |
 | 504        |   [base-7](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/504.base-7(easy).cpp)   |   easy   |
 | 506        |   [relative-ranks](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/506.relative-ranks(easy).java)   |   easy   |
 | 507        |   [perfect-number](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/507.perfect-number(easy).java)   |   easy   |
@@ -192,6 +197,21 @@ Feel free to give solutions in other language or better algorithms.
 | 623        |   [add-one-row-to-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/623.add-one-row-to-tree(medium).cpp)   |   medium   |
 | 624        |   [maximum-distance-in-arrays](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/624.maximum-distance-in-arrays(easy).cpp)   |   easy   |
 | 628        |   [maximum-product-of-three-numbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/628.maximum-product-of-three-numbers(easy).cpp)   |   easy   |
+| 637        |   [average-of-levels-in-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/637.average-of-levels-in-binary-tree(easy).cpp)   |   easy   |
+| 643        |   [maximum-average-subarray-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/643.maximum-average-subarray-i(easy).cpp)   |   easy   |
+| 645        |   [set-mismatch](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/645.set-mismatch(easy).cpp)   |   easy   |
+| 647        |   [palindromic-substrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/647.palindromic-substrings(medium).cpp)   |   medium   |
+| 653        |   [two-sum-iv-input-is-a-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/653.two-sum-iv-input-is-a-bst(easy).cpp)   |   easy   |
+| 654        |   [maximum-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/654.maximum-binary-tree(medium).cpp)   |   medium   |
+| 657        |   [judge-route-circle](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/657.judge-route-circle(easy).cpp)   |   easy   |
+| 669        |   [trim-a-binary-search-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/669.trim-a-binary-search-tree(easy).cpp)   |   easy   |
+| 671        |   [second-minimum-node-in-a-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/671.second-minimum-node-in-a-binary-tree(easy).cpp)   |   easy   |
+| 674        |   [longest-continuous-increasing-subsequence](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/674.longest-continuous-increasing-subsequence(easy).cpp)   |   easy   |
+| 682        |   [baseball-game](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/682.baseball-game(easy).cpp)   |   easy   |
+| 690        |   [employee-importance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/690.employee-importance(easy).cpp)   |   easy   |
+| 693        |   [binary-number-with-alternating-bits](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/693.binary-number-with-alternating-bits(easy).cpp)   |   easy   |
+| 697        |   [degree-of-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/697.degree-of-an-array(easy).cpp)   |   easy   |
+| 717        |   [1-bit-and-2-bit-characters](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/717.1-bit-and-2-bit-characters(easy).cpp)   |   easy   |
 
 
 ## LintCodes
