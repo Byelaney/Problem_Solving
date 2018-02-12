@@ -63,6 +63,7 @@ Feel free to give solutions in other language or better algorithms.
 | 204        |   [count-primes](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/204.count-primes(easy).java)   |   easy   |
 | 205        |   [IsomorphicStrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/205.IsomorphicStrings(easy).java)   |   easy   |
 | 206        |   [ReverseLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/206.ReverseLinkedList(easy).cpp)   |   easy   |
+| 208        |   [implement-trie-prefix-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/208.implement-trie-prefix-tree(medium).java)   |   medium   |
 | 217        |   [ContainsDuplicate](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/217.ContainsDuplicate(easy).cpp)   |   easy   |
 | 219        |   [contains-duplicate-ii](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/219.contains-duplicate-ii(easy).cpp)   |   easy   |
 | 225        |   [implement-stack-using-queues](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/225.implement-stack-using-queues(easy).cpp)   |   easy   |
@@ -72,6 +73,7 @@ Feel free to give solutions in other language or better algorithms.
 | 234        |   [palindrome-linked-list](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/234.palindrome-linked-list(easy).cpp)   |   easy   |
 | 235        |   [LowestCommonAncestorofaBinarySearchTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/235.LowestCommonAncestorofaBinarySearchTree(easy).java)   |   easy   |
 | 237        |   [DeleteNodeinaLinkedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/237.DeleteNodeinaLinkedList(easy).cpp)   |   easy   |
+| 241        |   [different-ways-to-add-parentheses](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/241.different-ways-to-add-parentheses(medium).cpp)   |   medium   |
 | 242        |   [ValidAnagram](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/242.ValidAnagram(easy).cpp)   |   easy   |
 | 243        |   [ShortestWordDistance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/243.ShortestWordDistance(easy).cpp)   |   easy   |
 | 246        |   [StrobogrammaticNumber](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/246.StrobogrammaticNumber(easy).cpp)   |   easy   |
@@ -122,7 +124,6 @@ Feel free to give solutions in other language or better algorithms.
 | 397        |   [IntegerReplacement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/397.IntegerReplacement(easy).cpp)   |   easy   |
 | 400        |   [nth-digit](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/400.nth-digit(easy).cpp)   |   easy   |
 | 401        |   [BinaryWatch](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/401.BinaryWatch(easy).py)   |   easy   |
-| 403        |   [frog-jump](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/hard/403.frog-jump(hard).java)   |   hard   |
 | 404        |   [SumofLeftLeaves](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/404.SumofLeftLeaves(easy).cpp)   |   easy   |
 | 405        |   [ConvertaNumbertoHexadecimal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/405.ConvertaNumbertoHexadecimal(easy).cpp)   |   easy   |
 | 406        |   [queue-reconstruction-by-height](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/406.queue-reconstruction-by-height(medium).cpp)   |   medium   |
@@ -148,6 +149,7 @@ Feel free to give solutions in other language or better algorithms.
 | 463        |   [island-perimeter](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/463.island-perimeter(easy).cpp)   |   easy   |
 | 476        |   [number-complement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/476.number-complement(easy).cpp)   |   easy   |
 | 477        |   [total-hamming-distance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/477.total-hamming-distance(medium).cpp)   |   medium   |
+| 479        |   [largest-palindrome-product](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/479.largest-palindrome-product(easy).cpp)   |   easy   |
 | 485        |   [max-consecutive-ones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/485.max-consecutive-ones(easy).cpp)   |   easy   |
 | 492        |   [construct-the-rectangle](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/492.construct-the-rectangle(easy).cpp)   |   easy   |
 | 495        |   [teemo-attacking](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/495.teemo-attacking(medium).cpp)   |   medium   |
@@ -164,6 +166,7 @@ Feel free to give solutions in other language or better algorithms.
 | 520        |   [detect-capital](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/520.detect-capital(easy).cpp)   |   easy   |
 | 521        |   [longest-uncommon-subsequence-i](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/521.longest-uncommon-subsequence-i(easy).java)   |   easy   |
 | 526        |   [beautiful-arrangement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/526.beautiful-arrangement(medium).cpp)   |   medium   |
+| 529        |   [minesweeper](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/529.minesweeper(medium).cpp)   |   medium   |
 | 530        |   [minimum-absolute-difference-in-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/530.minimum-absolute-difference-in-bst(easy).cpp)   |   easy   |
 | 531        |   [lonely-pixel-I](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/531.lonely-pixel-I(medium).cpp)   |   medium   |
 | 537        |   [complex-number-multiplication](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/537.complex-number-multiplication(medium).cpp)   |   medium   |
@@ -190,6 +193,7 @@ Feel free to give solutions in other language or better algorithms.
 | 599        |   [minimum-index-sum-of-two-lists](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/599.minimum-index-sum-of-two-lists(easy).cpp)   |   easy   |
 | 605        |   [can-place-flowers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/605.can-place-flowers(easy).cpp)   |   easy   |
 | 606        |   [construct-string-from-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/606.construct-string-from-binary-tree(easy).cpp)   |   easy   |
+| 609        |   [find-duplicate-file-in-system](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/609.find-duplicate-file-in-system(medium).java)   |   medium   |
 | 610        |   [triangle-judgement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/610.triangle-judgement(easy).sql)   |   easy   |
 | 613        |   [shortest-distance-in-a-line](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/613.shortest-distance-in-a-line(easy).sql)   |   easy   |
 | 617        |   [merge-two-binary-trees](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/617.merge-two-binary-trees(easy).cpp)   |   easy   |
@@ -207,11 +211,27 @@ Feel free to give solutions in other language or better algorithms.
 | 669        |   [trim-a-binary-search-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/669.trim-a-binary-search-tree(easy).cpp)   |   easy   |
 | 671        |   [second-minimum-node-in-a-binary-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/671.second-minimum-node-in-a-binary-tree(easy).cpp)   |   easy   |
 | 674        |   [longest-continuous-increasing-subsequence](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/674.longest-continuous-increasing-subsequence(easy).cpp)   |   easy   |
+| 676        |   [implement-magic-dictionary](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/676.implement-magic-dictionary(medium).java)   |   medium   |
+| 677        |   [map-sum-pairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/677.map-sum-pairs(medium).java)   |   medium   |
 | 682        |   [baseball-game](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/682.baseball-game(easy).cpp)   |   easy   |
 | 690        |   [employee-importance](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/690.employee-importance(easy).cpp)   |   easy   |
 | 693        |   [binary-number-with-alternating-bits](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/693.binary-number-with-alternating-bits(easy).cpp)   |   easy   |
+| 695        |   [max-area-of-island](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/695.max-area-of-island(easy).java)   |   easy   |
+| 696        |   [count-binary-substrings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/696.count-binary-substrings(easy).java)   |   easy   |
 | 697        |   [degree-of-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/697.degree-of-an-array(easy).cpp)   |   easy   |
+| 712        |   [minimum-ascii-delete-sum-for-two-strings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/712.minimum-ascii-delete-sum-for-two-strings(medium).cpp)   |   medium   |
 | 717        |   [1-bit-and-2-bit-characters](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/717.1-bit-and-2-bit-characters(easy).cpp)   |   easy   |
+| 728        |   [self-dividing-numbers](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/728.self-dividing-numbers(easy).cpp)   |   easy   |
+| 739        |   [daily-temperatures](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/739.daily-temperatures(medium).cpp)   |   medium   |
+| 744        |   [find-smallest-letter-greater-than-target](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/744.find-smallest-letter-greater-than-target(easy).cpp)   |   easy   |
+| 746        |   [min-cost-climbing-stairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/746.min-cost-climbing-stairs(easy).cpp)   |   easy   |
+| 747        |   [largest-number-at-least-twice-of-others](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/747.largest-number-at-least-twice-of-others(easy).cpp)   |   easy   |
+| 748        |   [shortest-completing-word](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/748.shortest-completing-word(medium).cpp)   |   medium   |
+| 760        |   [find-anagram-mappings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/760.find-anagram-mappings(easy).cpp)   |   easy   |
+| 762        |   [prime-number-of-set-bits-in-binary-representation](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/762.prime-number-of-set-bits-in-binary-representation(easy).cpp)   |   easy   |
+| 763        |   [partition-labels](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/763.partition-labels(medium).cpp)   |   medium   |
+| 766        |   [toeplitz-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/766.toeplitz-matrix(easy).cpp)   |   easy   |
+| 771        |   [jewels-and-stones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/771.jewels-and-stones(easy).cpp)   |   easy   |
 
 
 ## LintCodes
