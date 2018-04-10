@@ -15,6 +15,7 @@ Feel free to give solutions in other language or better algorithms.
 | 9     | [PalindromeNumber](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/9.PalindromeNumber(easy).cpp) |   easy     |
 | 13     | [RomantoInteger](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/13.RomantoInteger(easy).cpp) |   easy     |
 | 14     | [LongestCommonPrefix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/14.LongestCommonPrefix(easy).java) |   easy     |
+| 15     | [3sum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/15.3sum(medium).java) |   medium     |
 | 20     | [ValidParentheses](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/20.ValidParentheses(easy).cpp) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
 | 24     | [SwapNodesinPairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/24.SwapNodesinPairs(easy).cpp) |   easy     |
@@ -34,6 +35,7 @@ Feel free to give solutions in other language or better algorithms.
 | 101        |   [SymmetricTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/101.SymmetricTree(easy).cpp)   |   easy   |
 | 102        |   [BinaryTreeLevelOrderTraversal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/102.BinaryTreeLevelOrderTraversal(easy).cpp)   |   easy   |
 | 104        |   [MaximumDepthofBinaryTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/104.MaximumDepthofBinaryTree(easy).cpp)   |   easy   |
+| 105        |   [construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/105.construct-binary-tree-from-preorder-and-inorder-traversal(medium).java)   |   medium   |
 | 107        |   [BinaryTreeLevelOrderTraversalII](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/107.BinaryTreeLevelOrderTraversalII(easy).cpp)   |   easy   |
 | 110     | [BalancedBinaryTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/110.BalancedBinaryTree(easy).cpp) |   easy     |
 | 111        |   [MinimumDepthofBinaryTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/111.MinimumDepthofBinaryTree(easy).cpp)   |   easy   |
@@ -169,6 +171,7 @@ Feel free to give solutions in other language or better algorithms.
 | 529        |   [minesweeper](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/529.minesweeper(medium).cpp)   |   medium   |
 | 530        |   [minimum-absolute-difference-in-bst](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/530.minimum-absolute-difference-in-bst(easy).cpp)   |   easy   |
 | 531        |   [lonely-pixel-I](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/531.lonely-pixel-I(medium).cpp)   |   medium   |
+| 532        |   [k-diff-pairs-in-an-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/532.k-diff-pairs-in-an-array(easy).cpp)   |   easy   |
 | 537        |   [complex-number-multiplication](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/537.complex-number-multiplication(medium).cpp)   |   medium   |
 | 538        |   [convert-bst-to-greater-tree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/538.convert-bst-to-greater-tree(medium).cpp)   |   medium   |
 | 539        |   [minimum-time-difference](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/539.minimum-time-difference(medium).cpp)   |   medium   |
@@ -232,7 +235,8 @@ Feel free to give solutions in other language or better algorithms.
 | 763        |   [partition-labels](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/763.partition-labels(medium).cpp)   |   medium   |
 | 766        |   [toeplitz-matrix](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/766.toeplitz-matrix(easy).cpp)   |   easy   |
 | 771        |   [jewels-and-stones](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/771.jewels-and-stones(easy).cpp)   |   easy   |
-
+| 783        |   [minimum-distance-between-bst-nodes](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/783.minimum-distance-between-bst-nodes(easy).cpp)   |   easy   |
+| 784        |   [letter-case-permutation](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/784.letter-case-permutation(easy).java)   |   easy   |
 
 ## LintCodes
 
