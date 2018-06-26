@@ -249,10 +249,15 @@ Feel free to give solutions in other language or better algorithms.
 | 804        |   [unique-morse-code-words](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/804.unique-morse-code-words(medium).java)   |   medium   |
 | 806        |   [number-of-lines-to-write-string](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/806.number-of-lines-to-write-string(easy).cpp)   |   easy   |
 | 811        |   [subdomain-visit-count](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/811.subdomain-visit-count(easy).java)   |   easy   |
+| 812        |   [largest-triangle-area](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/812.largest-triangle-area(easy).java)   |   easy   |
 | 814        |   [binary-tree-pruning](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/814.binary-tree-pruning(medium).cpp)   |   medium   |
+| 819        |   [most-common-word](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/819.most-common-word(easy).java)   |   easy   |
 | 821        |   [shortest-distance-to-a-character](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/821.shortest-distance-to-a-character(easy).cpp)   |   easy   |
 | 824        |   [goat-latin](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/824.goat-latin(easy).java)   |   easy   |
+| 830        |   [positions-of-large-groups](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/830.positions-of-large-groups(easy).java)   |   easy   |
 | 832        |   [flipping-an-image](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/832.flipping-an-image(easy).cpp)   |   easy   |
+| 844        |   [backspace-string-compare](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/844.backspace-string-compare(easy).java)   |   easy   |
+| 852        |   [peak-index-in-a-mountain-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/852.peak-index-in-a-mountain-array(easy).cpp)   |   easy   |
 
 ## LintCodes
 
