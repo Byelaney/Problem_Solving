@@ -18,6 +18,7 @@ Feel free to give solutions in other language or better algorithms.
 | 15     | [3sum](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/15.3sum(medium).java) |   medium     |
 | 20     | [ValidParentheses](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/20.ValidParentheses(easy).cpp) |   easy     |
 | 21     | [MergeTwoSortedLists](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/21.MergeTwoSortedLists(easy).cpp) |   easy     |
+| 22     | [generate-parentheses](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/22.generate-parentheses(medium).java) |   medium     |
 | 24     | [SwapNodesinPairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/24.SwapNodesinPairs(easy).cpp) |   easy     |
 | 26     |   [RemoveDuplicatesfromSortedArray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/26.RemoveDuplicatesfromSortedArray(easy).cpp)   |   easy   |
 | 27     | [RemoveElement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/27.RemoveElement(easy).java) |   easy     |
@@ -256,9 +257,13 @@ Feel free to give solutions in other language or better algorithms.
 | 824        |   [goat-latin](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/824.goat-latin(easy).java)   |   easy   |
 | 830        |   [positions-of-large-groups](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/830.positions-of-large-groups(easy).java)   |   easy   |
 | 832        |   [flipping-an-image](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/832.flipping-an-image(easy).cpp)   |   easy   |
+| 836        |   [rectangle-overlap](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/836.rectangle-overlap(easy).java)   |   easy   |
+| 841        |   [keys-and-rooms](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/841.keys-and-rooms(medium).cpp)   |   medium   |
 | 844        |   [backspace-string-compare](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/844.backspace-string-compare(easy).java)   |   easy   |
+| 849        |   [maximize-distance-to-closest-person](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/849.maximize-distance-to-closest-person(easy).cpp)   |   easy   |
 | 852        |   [peak-index-in-a-mountain-array](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/852.peak-index-in-a-mountain-array(easy).cpp)   |   easy   |
-
+| 856        |   [score-of-parentheses](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/856.score-of-parentheses(medium).java)   |   medium   |
+| 859        |   [buddy-strings](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/859.buddy-strings(easy).cpp)   |   easy   |
 ## LintCodes
 
 | *        | Title   |  Difficulty  |
