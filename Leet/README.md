@@ -24,6 +24,7 @@ Feel free to give solutions in other language or better algorithms.
 | 27     | [RemoveElement](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/27.RemoveElement(easy).java) |   easy     |
 | 28     | [implement-strstr](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/28.implement-strstr(easy).java) |   easy     |
 | 36     | [ValidSudoku](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/36.ValidSudoku(easy).java) |   easy     |
+| 46     | [permutations](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/46.permutations(medium).java) |   medium     |
 | 55     | [jump-game](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/55.jump-game(medium).java) |   medium     |
 | 58     | [LengthofLastWord](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/58.LengthofLastWord(easy).java) |   easy     |
 | 66        |   [PlusOne](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/66.PlusOne(easy).cpp)   |   easy   |
