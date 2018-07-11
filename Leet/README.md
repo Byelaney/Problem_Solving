@@ -31,6 +31,8 @@ Feel free to give solutions in other language or better algorithms.
 | 67        |   [AddBinary](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/67.AddBinary(easy).cpp)   |   easy   |
 | 69        |   [sqrtx](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/69.sqrtx(easy).cpp)   |   easy   |
 | 70     | [ClimbingStairs](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/70.ClimbingStairs(easy).java) |   easy     |
+| 78     |
+[subsets](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/medium/78.subsets(medium).cpp)   |   medium   |
 | 83     | [RemoveDuplicatesfromSortedList](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/83.RemoveDuplicatesfromSortedList(easy).java) |   easy     |
 | 88        |   [MergeSortedArray](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/88.MergeSortedArray(easy).cpp)   |   easy   |
 | 100        |   [SameTree](https://github.com/Byelaney/Problem_Solving/blob/master/Leet/easy/100.SameTree(easy).cpp)   |   easy   |
